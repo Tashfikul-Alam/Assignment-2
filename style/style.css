@@ -327,6 +327,14 @@
 
 
   @media screen and (max-width: 620px) {
+
+    .container {
+      width: 100%;
+      max-width: 620px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     .second,
     .third {
       display: none;
@@ -386,35 +394,6 @@
 .footer {
   display: grid;}
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   }
 
 
@@ -434,59 +413,6 @@
 
 
 
-   /* @media screen and (max-width: 576px) {
-    .first-section {
-      margin: 0 auto;
-      max-width: 100%;
-      flex-direction: column-reverse;}
-    
-     }
-  
-  
-    .banner-heading {
-      margin: 0 auto;
-      max-width: 100%;
-      text-align: center;
-      font-size: 3rem;
-      gap: 5px;
-    }
-  
-  
-    .paragraph {
-      text-align: center;
-      max-width: 100%;
-      margin: 18px auto;
-      font-size: 1.5rem;
-    }
-  
-  
-    .enroll-btn {
-      text-align: center;
-      margin: 18px auto;
-      font-size: 1.2rem;
-      max-width: 100%;
-    }
-  
-  
-    .first-image {
-      max-width: 100%;
-      height: auto;
-    }
-    /* first section end    */
-  
-  
-    /* #standerd {
-      margin: 30px auto 20px;
-      font-size: 2.5rem;
-      max-width: 100%;
-    }
-  
-  
-    .second-section {
-      flex-direction: column;
-      margin: 0 auto;
-      font-size: 1rem;
-      max-width: 100%;
-    } */ */
+
 
   
